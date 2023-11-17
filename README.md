@@ -38,9 +38,11 @@
 
 ### MY STEAM
 
+### Click in the IMAGE
 
-![STEAM](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)&nbsp;     <a href="https://steamcommunity.com/id/Cpriany" target="_blank">Click</a>
+<a href="https://steamcommunity.com/id/Cpriany" target="_blank"> ![STEAM](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)&nbsp;  </a>
 
+   
 
 
 
