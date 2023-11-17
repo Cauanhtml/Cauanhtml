@@ -15,6 +15,8 @@
 
 
 
+<hr>
+
 
 ### Studying Now:
 
@@ -33,7 +35,7 @@
 
 
 
-
+<hr>
 
 
 ### MY STEAM
