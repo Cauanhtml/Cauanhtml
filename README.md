@@ -39,7 +39,7 @@
 ### MY STEAM
 
 
-![STEAM](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)&nbsp;     <a href="https://steamcommunity.com/id/Cpriany" style="text-decoration: none;">Click</a>
+![STEAM](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)&nbsp;     <a href="https://steamcommunity.com/id/Cpriany" target="_blank">Click</a>
 
 
 
