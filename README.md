@@ -16,7 +16,6 @@
 
 
 
-
 ### Studying Now:
 
 ![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp; 
@@ -24,7 +23,27 @@
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
 <br>
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
+<br>
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp; 
+<br>
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 </div>
+
+
+
+
+
+
+
+
+### MY STEAM
+
+
+![STEAM](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)&nbsp;     <a href="https://steamcommunity.com/id/Cpriany" style="text-decoration: none;">Click</a>
+
+
+
+
 
 
 <img width=100% height="195px" src="https://capsule-render.vercel.app/api?type=waving&color=red&height=120&section=header"/>
